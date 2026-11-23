@@ -1,0 +1,1 @@
+Build duration-reproduction tasks with Gaussian stimuli and timestamped key responses using MATLAB and Psychtoolbox.

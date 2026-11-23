@@ -1,0 +1,23 @@
+# Local outputs and MATLAB state
+results/
+data/
+*.mat
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.log
+*.asv
+*.m~
+*.mex*
+*.dll
+*.exe
+*.zip
+*.fig
+*.png
+*.mp4
+matlab.prf
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
